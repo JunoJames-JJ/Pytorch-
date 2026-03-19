@@ -1,0 +1,2 @@
+Implemented a denoising autoencoder for RGB images. 
+Used CIFAR10 dataset.
